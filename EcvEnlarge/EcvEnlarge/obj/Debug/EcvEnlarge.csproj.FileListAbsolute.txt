@@ -1,0 +1,72 @@
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.pdb
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.dll
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.dll
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.dll
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.dll
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\ZedGraph.dll
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.xml
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.xml
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.xml
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.xml
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.exe
+c:\users\dell\documents\visual studio 2013\Projects\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.pdb
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe.config
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.exe
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.pdb
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.pdb
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.dll
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.dll
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.xml
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.xml
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Form1.resources
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe.config
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.exe
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.pdb
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.pdb
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.dll
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.dll
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.dll
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.dll
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\ZedGraph.dll
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.xml
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.xml
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.xml
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.xml
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Form1.resources
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Properties.Resources.resources
+C:\Users\dell\Desktop\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe.config
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.exe
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.pdb
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.exe
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\EcvEnlarge.pdb
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.dll
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.dll
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.dll
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.dll
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\ZedGraph.dll
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.xml
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.ML.xml
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.CV.UI.xml
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\bin\Debug\Emgu.Util.xml
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Form1.resources
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.Properties.Resources.resources
+C:\Users\dell\Desktop\EcvEnlarge222\EcvEnlarge\EcvEnlarge\obj\Debug\EcvEnlarge.csproj.GenerateResource.Cache
